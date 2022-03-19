@@ -10,7 +10,7 @@
 
 
 Made by:
-## Janhavi Kadam
-## Sakshi Mane
-## Farhat Dalvi
-## Awais Khalifey
+### Janhavi Kadam
+### Sakshi Mane
+### Farhat Dalvi
+### Awais Khalifey
